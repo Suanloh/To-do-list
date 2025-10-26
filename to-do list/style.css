@@ -130,3 +130,21 @@ ul li span:hover{
     background-color: #828282;
     transition: background-color 0.15s;
 }
+
+.editBtn{
+    position: absolute;
+     top: 55%;
+    right: 45px;
+    transform: translateY(-50%);
+    border: none;
+    cursor: pointer;
+    border-radius: 25px;
+    width: 40px;
+    height: 40px;
+    font-size: 22px;
+    color:#555;
+}
+.editBtn:hover{
+    background-color: #828282;
+    transition: background-color 0.15s;
+}
